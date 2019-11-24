@@ -3,6 +3,8 @@
 ¡Hola! Gracias por pasarte por aquí.  Me llamo Jordi. Esta página la hice para que puedas conocerme a través de las
 cosas que hago.
 
+![https://pbs.twimg.com/profile_images/908728872769908737/MkqSb991_400x400.jpg](https://pbs.twimg.com/profile_images/908728872769908737/MkqSb991_400x400.jpg)
+
 # Qué hago
 
 Me gusta enfocarme en resolver problemas complejos a través del uso creativo de la tecnología, y a ser posible,

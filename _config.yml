@@ -1,1 +1,11 @@
 remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+  name: Jordi Martí
+  tagline: Team Developer. I work hard to create impact.
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: itortv
+    github:  jmarti-theinit
+    linkedIn: in/jmartitheinit

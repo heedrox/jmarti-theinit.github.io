@@ -46,6 +46,11 @@ SCURE. ¡Hacer aventuras conversacionales para Google Assistant ahora es tan fá
 
 - SCURE: [https://github.com/jmarti-theinit/scure-dialogflow](https://github.com/jmarti-theinit/scure-dialogflow)
 
+En La Anomalía Dimensional, desarrollé una experiencia bastante chula vía web, a través de las APIs de STT y TTS del
+navegador chrome. Solo en chrome:
+
+- Anomalía Dimensional Web Game: [https://the-anomaly-game.com/game/](https://the-anomaly-game.com/game/)
+
 ## Los viajes de Coco
 
 ![Viajes de coco](coco/coco.jpg "Los viajes de Coco")

@@ -25,6 +25,8 @@ Aquí un listado de ellas.
 
 ## itortv.com
 
+El origen de mi nick en twitter. 
+
 Un buscador de series y subtítulos en la época Lost. Una aplicación web y móvil que me permitió conocer
  a fondo Android nativo, y gracias al cual Google me regaló un móvil.  Tuve más de 10.000 usuarios. Incluso llegó a
  estar la app en algunas ROMs prefabricadas. Estoy muy orgulloso de haber encontrado una necesidad (principalmente la

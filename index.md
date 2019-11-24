@@ -1,20 +1,22 @@
 # Me presento
 
-¡Hola! Gracias por pasarte por aquí. 
-
-Me llamo Jordi. Puedes conocerme más leyendo esta página que he creado.
+¡Hola! Gracias por pasarte por aquí.  Me llamo Jordi. Esta página la hice para que puedas conocerme a través de las
+cosas que hago.
 
 # Qué hago
 
 Me gusta enfocarme en resolver problemas complejos a través del uso creativo de la tecnología, y a ser posible,
 que generen un impacto medible en personas que conozco.
 
+Creo en que hay más probabilidades de éxito y de hacer la diferencia si se trabaj en equipo, junto a gente diversa
+y personas unidas y empoderadas por una misma visión.
+
 Por eso, soy desarrollador de software. Hago aplicaciones que funcionan principalmente en web, móvil y
 sobre asistentes de voz. 
 
 Profesionalmente, participo en el Grupo INIT desde 2006. Actualmente me enfoco en ayudar a
 las grandes empresas a configurar e implementar sus planes de salud de forma eficiente, a través
-de la plataforma Inithealth.
+de la plataforma Inithealth. Puedes saber más de mi vida profesional aquí: [https://www.linkedin.com/in/jmartitheinit/](https://www.linkedin.com/in/jmartitheinit/)
 
 # Qué cosas he hecho
 
@@ -192,6 +194,7 @@ Algunos links al respecto:
 - Tutorial: [https://www.youtube.com/watch?v=Grr33QG7B6E](https://www.youtube.com/watch?v=fL0_hdo84Xs).
 - ¿Tiene LODVG el guión de Lost? [https://www.youtube.com/watch?v=Grr33QG7B6E](https://www.youtube.com/watch?v=Grr33QG7B6E). Un vídeo que pretendía ser viral, en la era pre-meme. Incluso LODVG llegó a escribirme. Eran otros tiempos :) 
 - Enlace en El Androide Libre: [https://elandroidelibre.elespanol.com/2010/07/gestiona-tus-series-con-mitortv.html](https://elandroidelibre.elespanol.com/2010/07/gestiona-tus-series-con-mitortv.html)
+
 
 
 

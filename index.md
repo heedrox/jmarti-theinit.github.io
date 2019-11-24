@@ -94,6 +94,17 @@ Aquí el repo:
 (1) Prototipo: [https://github.com/jmarti-theinit/tooche](https://github.com/jmarti-theinit/tooche)
 (2) Versión muy preliminar: [https://github.com/jmarti-theinit/tooche-game](https://github.com/jmarti-theinit/tooche-game)
 
+## Cypress Cucumber skeleton
+
+![Cypress + Cucumber](https://miro.medium.com/max/1480/0*1gOpbMmCFaGgHRhl.png "Cypress + Cucumber")
+
+Tras implementar satisfactoriamente Cypress + Cucumber en nuestro flujo de desarrollo, escribí uno de mis posts
+más exitosos hasta la fecha. 
+
+Post medium: [https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a](https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a)
+
+Repositorio: [https://github.com/jmarti-theinit/cypress-cucumber-example](https://github.com/jmarti-theinit/cypress-cucumber-example)
+
 ## Simonly
 
 ![Simonly main page](simonly/simonly.png "Simonly Welcome page")

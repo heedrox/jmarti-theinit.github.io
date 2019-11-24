@@ -138,7 +138,7 @@ propia app de Zorionak, que me contacte, y por un módico precio, se la personal
 
 ## TCR Cli
 
-Experimenté un poco sobre el Test && (Commit || Revert) propuesto por Kent Beck.
+Experimenté un poco sobre el Test && (Commit | | Revert) propuesto por Kent Beck.
 
 Aquí los resultados:
 

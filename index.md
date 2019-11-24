@@ -42,7 +42,7 @@ Actualmente, tengo tres juegos:
 Crear estos juegos me ha permitido generar mi propio motor de generación de aventuras para Google Assistant, llamado
 SCURE. ¡Hacer aventuras conversacionales para Google Assistant ahora es tan fácil como hacer un JSON!
 
-SCURE: [https://github.com/jmarti-theinit/scure-dialogflow](https://github.com/jmarti-theinit/scure-dialogflow)
+- SCURE: [https://github.com/jmarti-theinit/scure-dialogflow](https://github.com/jmarti-theinit/scure-dialogflow)
 
 ## Los viajes de Coco
 
@@ -91,8 +91,8 @@ Tecnologías: PhaserJS.
 Aquí el hilo donde comparto todos los posts: [https://twitter.com/itortv/status/961715774753857536](https://twitter.com/itortv/status/961715774753857536)
 
 Aquí el repo:
-(1) Prototipo: [https://github.com/jmarti-theinit/tooche](https://github.com/jmarti-theinit/tooche)
-(2) Versión muy preliminar: [https://github.com/jmarti-theinit/tooche-game](https://github.com/jmarti-theinit/tooche-game)
+- (1) Prototipo: [https://github.com/jmarti-theinit/tooche](https://github.com/jmarti-theinit/tooche)
+- (2) Versión muy preliminar: [https://github.com/jmarti-theinit/tooche-game](https://github.com/jmarti-theinit/tooche-game)
 
 ## Cypress Cucumber skeleton
 
@@ -101,9 +101,8 @@ Aquí el repo:
 Tras implementar satisfactoriamente Cypress + Cucumber en nuestro flujo de desarrollo, escribí uno de mis posts
 más exitosos hasta la fecha. 
 
-Post medium: [https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a](https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a)
-
-Repositorio: [https://github.com/jmarti-theinit/cypress-cucumber-example](https://github.com/jmarti-theinit/cypress-cucumber-example)
+- Post medium: [https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a](https://medium.com/@itortv/how-to-integrate-cypress-and-cucumber-in-your-development-flow-in-just-a-few-weeks-96a46ac9165a)
+- Repositorio: [https://github.com/jmarti-theinit/cypress-cucumber-example](https://github.com/jmarti-theinit/cypress-cucumber-example)
 
 ## Simonly
 
@@ -120,9 +119,9 @@ Como no quiero publicar fotos de mis sobrinos, hice una versión “Chiquito” 
 Y ahora, el juego es totalmente customizable. ¡No requieres tener un servidor para hacer tu propio Simonly!
 
 Todo el código es libre. ¡Entra y sírvete tú mismo!
-(1) Juega al Simon con Chiquito,
-(2) Hazte tu propio Simon,
-(3) Mira todo el código (hecho en Vuejs y fully TDD).
+- (1) Juega al Simon con Chiquito,
+- (2) Hazte tu propio Simon,
+- (3) Mira todo el código (hecho en Vuejs y fully TDD).
 
 
 Repositorio: [https://github.com/jmarti-theinit/simonly](https://github.com/jmarti-theinit/simonly)
@@ -138,7 +137,7 @@ propia app de Zorionak, que me contacte, y por un módico precio, se la personal
 
 ## TCR Cli
 
-Experimenté un poco sobre el Test && (Commit | | Revert) propuesto por Kent Beck.
+Experimenté un poco sobre el Test and (Commit or Revert) propuesto por Kent Beck.
 
 Aquí los resultados:
 

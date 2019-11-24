@@ -109,7 +109,7 @@ Repositorio: [https://github.com/jmarti-theinit/cypress-cucumber-example](https:
 
 ![Simonly main page](simonly/simonly.png "Simonly Welcome page")
 
-Tengo 8 sobrinos. Un día durante el 2017 les dije: “Os voy a hacer un juego en el que vosotros seáis los protagonistas”.
+Tengo 9 sobrinos/as. Un día durante el 2017 les dije: “Os voy a hacer un juego en el que vosotros seáis los protagonistas”.
 Dicho y hecho. Hoy tienen un juego en el que cada uno de ellos es una nota musical (do, re, mi, fa, …), y la mecánica
 del juego es la del mítico Simón: el jugador tiene que ir recordando la melodía a medida que va progresando y
 alargándose.
@@ -129,15 +129,12 @@ Repositorio: [https://github.com/jmarti-theinit/simonly](https://github.com/jmar
 
 ## Zorionak
 
-Una app en la que cada día muestra una foto diferente. La hicimos entre todos los hijos de la familia (¡somos 5 hijos!)
+Una app en la que cada día muestra una foto diferente. La hicimos entre todos los hijos de la familia (¡somos 5 hijos/as!)
 como regalo de aniversario de nuestros padres, y cada día muestra una foto familiar diferente. Se ha convertido en una
 tradición familiar, y este año ya hemos sacado la segunda renovación de la app (mis hermanas buscan las fotos, yo
 las compilo en la app). Todas las mañanas a través del whatsapp comentamos la foto de la app. Si alguien quiere su
 propia app de Zorionak, que me contacte, y por un módico precio, se la personalizo :)
 
-
-Hacer TDD es fácil si sabes cómo (aka, “Engánchate al verde”): 
-RIC Escape: Mi última creación y la que estoy promoviendo más activamente. Quería explorar qué se puede hacer con Google Assistant, y cuáles eran sus límites. Justo esos días había jugado con mis sobrinos bastante a rol y a juegos de tablero, y me imaginé algo con Google Assistant del estilo, pero en formato “escape room”. ¿El resultado? Un escape room conversacional de 35 minutos jugable a través de Google Assistant, facebook messenger y telegram bot. He aprendido un montón, y lo que todavía me queda… Y por supuesto, y aquí permitidme el secretismo, ya estoy trabajando en sacarle $$$… Si empieza a cuajar, os lo cuento. Si no cuaja, pues también :)
 
 ## TCR Cli
 
